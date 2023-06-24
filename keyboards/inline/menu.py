@@ -15,4 +15,4 @@ menu_btns = [
     ],
 ]
 menu_kb = kb(inline_keyboard=menu_btns)
-print(menu_kb)
+# print(menu_kb)
